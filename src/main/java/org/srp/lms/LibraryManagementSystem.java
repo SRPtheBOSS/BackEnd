@@ -20,7 +20,7 @@ public class LibraryManagementSystem {
         LendingService lendingService = new LendingService();
 
         Book book1 = new Book("2012", "Saurabh", "001", 2024);
-        Book book2 = new Book("Brave New World", "Shambhu", "001", 2024);
+        Book book2 = new Book("Brave New World", "Shambhu", "002", 2024);
 
         Patron patron = new Patron("1", "Rahul");
 
